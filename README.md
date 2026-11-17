@@ -2,7 +2,7 @@
 
 
 
-access interface - mini-google-1998-chi.vercel.app
+access interface link: mini-google-1998-chi.vercel.app
 
 A simplified recreation of Google's original 1998 search experience, demonstrating how search engines evolved from basic keyword matching to Google's revolutionary PageRank algorithm.
 
